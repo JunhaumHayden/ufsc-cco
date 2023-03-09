@@ -11,4 +11,4 @@ b = int(input())
 c = int(input())
 d = int(input())
 
-print(f'DIRENCA = {(a * b) - (c * d)}')
+print(f'DIFERENCA = {(a * b) - (c * d)}')
